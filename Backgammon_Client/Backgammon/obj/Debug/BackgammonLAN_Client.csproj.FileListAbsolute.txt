@@ -1,0 +1,26 @@
+D:\C#\Backgammon_Client\Backgammon\bin\Debug\Backgammon.exe.config
+D:\C#\Backgammon_Client\Backgammon\bin\Debug\Backgammon.exe
+D:\C#\Backgammon_Client\Backgammon\bin\Debug\Backgammon.pdb
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\Backgammon.fMenu.resources
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\Backgammon.fGame.resources
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\Backgammon.fInstructions.resources
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\Backgammon.PlayerDetails.resources
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\Backgammon.Properties.Resources.resources
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\BackgammonLAN_Client.csproj.GenerateResource.cache
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\BackgammonLAN_Client.csproj.CoreCompileInputs.cache
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\Backgammon.exe
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\Backgammon.pdb
+D:\C#\Backgammon_Client\Backgammon\obj\Debug\BackgammonLAN_Client.csprojAssemblyReference.cache
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\bin\Debug\Backgammon.exe.config
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\bin\Debug\Backgammon.exe
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\bin\Debug\Backgammon.pdb
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\BackgammonLAN_Client.csprojAssemblyReference.cache
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\Backgammon.fMenu.resources
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\Backgammon.fGame.resources
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\Backgammon.fInstructions.resources
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\Backgammon.PlayerDetails.resources
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\Backgammon.Properties.Resources.resources
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\BackgammonLAN_Client.csproj.GenerateResource.cache
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\BackgammonLAN_Client.csproj.CoreCompileInputs.cache
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\Backgammon.exe
+D:\C#\Proiect An 2 facultate\Backgammon_Client\Backgammon\obj\Debug\Backgammon.pdb
